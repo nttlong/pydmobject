@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='qobjects',
     version='1.0.0.0',
-    packages=['qobjects'],
+    packages=['pydmobjects'],
     url='',
     license='',
     author='nttlong',
